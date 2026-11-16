@@ -1,0 +1,12 @@
+{
+  "name": "claude-session-tools",
+  "description": "Session management skills for Claude Code.",
+  "owner": { "name": "Kino1994", "url": "https://github.com/Kino1994" },
+  "plugins": [
+    {
+      "name": "session-tools",
+      "description": "new-session (background + Remote Control sessions) and session-discovery (list, probe and resume past sessions).",
+      "source": "./"
+    }
+  ]
+}

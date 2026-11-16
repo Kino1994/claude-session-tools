@@ -1,0 +1,9 @@
+{
+  "name": "session-tools",
+  "version": "0.1.0",
+  "description": "Spawn remote-controllable background Claude Code sessions on your machine, and discover/probe past sessions per folder.",
+  "author": { "name": "Kino1994", "url": "https://github.com/Kino1994" },
+  "repository": "https://github.com/Kino1994/claude-session-tools",
+  "license": "MIT",
+  "keywords": ["sessions", "remote-control", "resume", "background"]
+}
